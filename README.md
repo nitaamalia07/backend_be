@@ -1,5 +1,10 @@
-# backend_be
+# Medpoint System Backend
+adalah sebuah platform yang memungkinkan pengguna untuk melakukan berbagai jenis reservasi medis online, termasuk konsultasi dokter, tes laboratorium, tindakan medis, dan vaksinasi.
 
+# Structur Folder
+Berisikan structur folder secara umum: 
+
+```bash
 backend-be/
 ├── api/                 # Handler untuk setiap endpoint (controller)
 │   └── user.go          # Contoh: handler untuk user
@@ -23,3 +28,17 @@ backend-be/
 ├── .env
 ├── .gitignore
 └── README.md
+```
+
+# Tools
+Go, Raide, Supabace, Github
+
+# Git Flow
+Git init, git remove add origin, git add, git commit -m "Innitial commit", dll. Serta branch main, develop, feature, dll.
+
+# Recording
+Link: https://jam.dev/c/4e9e2ac7-099b-4ec7-9674-805ec97d2933
+
+
+
+
