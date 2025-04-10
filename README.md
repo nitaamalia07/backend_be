@@ -37,7 +37,7 @@ Go, Raide, Supabace, Github
 Git init, git remove add origin, git add, git commit -m "Innitial commit", dll. Serta branch main, develop, feature, dll.
 
 # Recording
-Link: 
+Link: https://jam.dev/c/56fa3aeb-09e1-47ae-ab75-4f9d01622d51
 
 
 
